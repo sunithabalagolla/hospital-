@@ -1,0 +1,35 @@
+.property-typeheader{
+    margin-top: 12px;
+    font-size: 57px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+   
+}
+.property-label{
+    font-size: 23px;
+    margin-top: 16px;
+}
+.greenbtn{
+    width: 140px;
+    color: white;
+    font-size: 24px;
+    font-weight: bolder;
+}
+.alert-msg{
+    background-color: darkgreen;
+    
+    color: white;
+    padding-bottom: 12px;
+    width: 260px;
+    font-size: 20px;
+    margin-left: -390px;
+    border-radius: 4px;
+}
+.propertytypegridhead{
+    margin-top: 20px;
+    margin-left: 160px;
+    font-family:fantasy;
+}
+.facilitydiv{
+    margin-left: 90px;
+}

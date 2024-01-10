@@ -1,0 +1,281 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "sunitha",
+      "lastName": "Balagolla",
+      "email": "SUNITHABALAGOLLA@GMAIL.COM",
+      "password": "12345ABa",
+      "address": "14-1-209/122,parvath nagar,borabanda",
+      "dob": "2023-10-12",
+      "number": "9290641023",
+      "State": "Andrapradesh"
+    },
+    {
+      "id": 2,
+      "firstName": "jack",
+      "lastName": "sparrow",
+      "email": "jack@gmai.com",
+      "password": "sdsad3Aa2",
+      "address": "14-1-209/122",
+      "dob": "2023-10-19",
+      "number": "2330324567",
+      "State": "Andrapradesh"
+    },
+    {
+      "id": 3,
+      "firstName": "sunitha",
+      "lastName": "Balagolla",
+      "email": "SUNITHABALAGOLLA@GMAIL.COM",
+      "password": "Asass23455",
+      "address": "14-1-209/122,parvath nagar,borabanda",
+      "dob": "2023-10-04",
+      "number": "7664567745",
+      "State": "Andrapradesh"
+    },
+    {
+      "id": 4,
+      "firstName": "sunitha",
+      "lastName": "Sunitha",
+      "email": "SUNITHABALAGOLLA@GMAIL.COM",
+      "password": "23ASdsdedsd",
+      "address": "14-1-209/122,parvath nagar,borabanda",
+      "dob": "2023-10-03",
+      "number": "5434343433",
+      "State": "Andrapradesh"
+    },
+    {
+      "id": 5,
+      "firstName": "uma",
+      "lastName": "Balagolla",
+      "email": "SUNITHABALAGOLLA@GMAIL.COM",
+      "password": "f123SABa23sdx",
+      "address": "14-1-209/122,parvath nagar,borabanda",
+      "dob": "2023-10-04",
+      "number": "5555555555",
+      "State": "Andrapradesh"
+    },
+    {
+      "id": 6,
+      "firstName": "sunitha",
+      "lastName": "Balagolla",
+      "email": "SUNITHABALAGOLLA@GMAIL.COM",
+      "password": "123Azsa23",
+      "address": "14-1-209/122,parvath nagar,borabanda",
+      "dob": "2023-11-10",
+      "number": "1234567897",
+      "State": "Andrapradesh"
+    },
+    {
+      "id": 7,
+      "firstName": "sunitha",
+      "lastName": "Balagolla",
+      "email": "SUNITHABALAGOLLA@GMAIL.COM",
+      "password": "23456ABa",
+      "address": "14-1-209/122,parvath nagar,borabanda",
+      "dob": "2023-11-02",
+      "number": "12345678978",
+      "State": "Andrapradesh"
+    }
+  ],
+  "propertytype": [
+    {
+      "id": 1,
+      "propertytype": " villa ",
+      "Description": "A spacious and luxurious residence with a Mediterranean architectural style, typically featuring open spaces and scenic views.",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "propertytype": "Apartment",
+      "Description": "Apartments are compact and convenient urban dwellings, offering a space-efficient living solution for individuals and families.",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "propertytype": "Cottage",
+      "Description": " A small, charming cottage with a cozy and inviting ambiance, often nestled in picturesque countryside settings",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "propertytype": "Ranch House",
+      "Description": "A single-story house with a long, low profile, typically featuring an open floor plan and a connection to the outdoors.",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "propertytype": "Mansion",
+      "Description": "A luxurious and spacious estate positioned on an elevated site, often offering panoramic views of the surroundings.",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "propertytype": "Victorian House",
+      "Description": "A lavish and ornate Victorian house with intricate details, turrets, and a riot of colors, embodying the Queen Anne architectural style.",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "propertytype": "",
+      "Description": "",
+      "isActive": true
+    },
+    {
+      "id": 8,
+      "propertytype": "apartement",
+      "Description": "m,,",
+      "isActive": true
+    },
+    {
+      "id": 9,
+      "propertytype": "apartement",
+      "Description": "",
+      "isActive": true
+    }
+  ],
+  "facilitytype": [
+    {
+      "id": 1,
+      "securityManagement": "dsamna",
+      "fitnesscenter": "a da",
+      "swimmingPool": "a  da",
+      "securityLockers": "a d",
+      "isActive": false
+    },
+    {
+      "id": 2,
+      "securityManagement": "dfmdmfd",
+      "fitnesscenter": "sdfsds",
+      "swimmingPool": "dfdsf",
+      "securityLockers": "sfsf",
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "securityManagement": "czm,cm,z",
+      "fitnesscenter": "zxz",
+      "swimmingPool": "xz,",
+      "securityLockers": "ss as,",
+      "isActive": false
+    },
+    {
+      "id": 4,
+      "securityManagement": "saftest secuirty",
+      "fitnesscenter": "well training center",
+      "swimmingPool": "beaurtiful view",
+      "securityLockers": "safety ",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "securityManagement": "sa",
+      "fitnesscenter": "sasa",
+      "swimmingPool": "sssssssssaa",
+      "securityLockers": "sasa",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "securityManagement": "high resolution ",
+      "fitnesscenter": "yes",
+      "swimmingPool": "capcity of 2000 peoprles",
+      "securityLockers": "very safe",
+      "isActive": true
+    }
+  ],
+  "addproperty": [
+    {
+      "id": 1,
+      "isFname": "Block-A",
+      "isSelect": "4",
+      "isFeet": "2000",
+      "isDetails": "much more special",
+      "isData": "2023-10-30",
+      "isCheck": true,
+      "isCheckOne": false
+    },
+    {
+      "id": 2,
+      "isFname": "Block-B",
+      "isSelect": "1",
+      "isFeet": "400",
+      "isDetails": "moreover  free",
+      "isData": "2023-10-06",
+      "isCheck": false,
+      "isCheckOne": true
+    },
+    {
+      "id": 3,
+      "isFname": "phase-9",
+      "isSelect": "6",
+      "isFeet": "1000",
+      "isDetails": "queen 👑 ",
+      "isData": "2023-10-04",
+      "isCheck": true,
+      "isCheckOne": false
+    },
+    {
+      "id": 4,
+      "isFname": "Block-D",
+      "isSelect": "3",
+      "isFeet": "100",
+      "isDetails": "somewhere ",
+      "isData": "2023-10-04",
+      "isCheck": false,
+      "isCheckOne": true
+    },
+    {
+      "id": 5,
+      "isFname": "fmndmn",
+      "isSelect": "4",
+      "isFeet": "343",
+      "isDetails": "dssfds",
+      "isData": "2023-11-10",
+      "isCheck": false,
+      "isCheckOne": true
+    },
+    {
+      "id": 6,
+      "isFname": "wew",
+      "isSelect": "1",
+      "isFeet": "200",
+      "isDetails": "eer",
+      "isData": "2023-11-03",
+      "isCheck": false,
+      "isCheckOne": true
+    }
+  ],
+  "addfacility": [
+    {
+      "id": 1,
+      "isFname": "sunitha",
+      "isSelect": "4",
+      "isFeet": "2000",
+      "isDetails": "sunitha me",
+      "isPlace": "2023-11-15",
+      "isCheck": true,
+      "isCheckOne": false
+    },
+    {
+      "id": 2,
+      "isFname": "faicilies u can add",
+      "isSelect": "6",
+      "isFeet": "2000",
+      "isDetails": "need to visit ",
+      "isPlace": "2023-11-03",
+      "isCheck": true,
+      "isCheckOne": false
+    },
+    {
+      "id": 3,
+      "isFname": "sunirhanm",
+      "isSelect": "4",
+      "isFeet": "200",
+      "isDetails": "ds  a",
+      "isPlace": "2023-11-10",
+      "isCheck": false,
+      "isCheckOne": true
+    }
+  ]
+}

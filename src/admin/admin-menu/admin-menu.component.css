@@ -1,0 +1,28 @@
+.admindiv{
+    margin-top: 10px;
+   /* background-color: #2e2d2d2e; */
+    background-image: linear-gradient(rgba(215, 91, 91, 0.726),rgba(247, 234, 234, 0.775)); 
+  
+   height: 89vh;
+  
+
+}
+.adminhead{
+   font-size: 43px;
+   background-color: rgba(165, 42, 42, 0.856);
+   color: white;
+   
+   
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main-ul li{
+    list-style-type: none;
+    padding: 23px;
+    font-size: 29px;
+    color:hsl(0, 13%, 6%);
+    
+}
+.no-underline{
+    text-decoration: none;
+}
+

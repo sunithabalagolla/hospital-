@@ -1,0 +1,11 @@
+.slideOne,.slideTwo,.slideThree{
+    background-repeat: no-repeat;
+    background-size: cover;
+  width: 100%;
+  background-attachment: fixed; 
+  height: 93vh;
+ 
+   
+  
+   
+}

@@ -1,0 +1,50 @@
+.image-section img{
+    width: 800px;
+    height: 540px;
+    margin-left: 70px;
+    margin-top: 90px;
+    border-radius: 5px;
+    text-shadow: 2px  2px 2px black;
+}
+.sections-head{
+    margin-left: 150px;
+    margin-top: 120px;
+}
+.sections-head h1{
+ font-weight: 600;
+ font-size: 49px;
+ color: brown;
+}
+.sections-head p{
+    margin-top: 32px;
+    font-size: 27px;
+    word-spacing: 3px;
+    color: #686060;
+}
+.section-head{
+    margin-top: 30px;
+}
+.button button{
+    background-color: brown;
+    color: white;
+    font-weight: bolder;
+    width: 130px;
+    font-size: 18px;
+    padding: 6px;
+    text-shadow: 2px 2px 4px #cd1616;
+}
+.icons{
+    margin-left: 130px;
+    margin-top: -120px;
+    font-size: 150px;
+   
+
+}
+.icons > * {
+    margin-left: 60px; /* Adjust the value as needed for the desired spacing */
+    color: brown;
+  }
+  .section{
+   
+    min-height: 88vh;
+  }

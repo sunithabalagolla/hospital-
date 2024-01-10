@@ -1,0 +1,28 @@
+.property-typeheader{
+    margin-top: 19px;
+    font-size: 57px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-left: 350px;
+   
+}
+.card-header{
+   background-image: radial-gradient(rgb(249, 118, 118),brown);
+   color: white;
+   font-size: 20px;
+   font-weight: bolder;
+}
+.card-footer{
+  background-color: rgb(229, 153, 153);
+  font-size: 18px;
+  color: darkblue;
+}
+.card-body{
+    background-color: rgb(228, 219, 219);
+    font-size: 18px;
+    color: black;
+}
+.card{
+    margin-top: 40px;
+    margin-left: 120px;
+}
